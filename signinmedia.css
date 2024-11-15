@@ -1,0 +1,474 @@
+*{
+    margin:0;
+    padding:0;
+    }
+    .div1{
+    background:linear-gradient(pink,white,hotpink);
+    height:1000px;
+    }
+    .div2{
+    background:white;
+    width:30%;
+    height:500px;
+    position:relative;
+    top:100px;
+    left:37%;
+    border-radius:20px;
+    
+    }
+    .h21{
+    text-align:center;
+    padding:20px;
+    }
+    .name{
+    font-weight:500;
+    position:relative;
+    left:120px;
+    }
+    #name{
+    position:relative;
+    left:200px;
+    }
+    .email{
+    font-weight:500;
+    position:relative;
+    left:120px;
+    }
+    #email{
+    position:relative;
+    left:193px;
+    }
+    .password{
+    font-weight:500;
+    position:relative;
+    left:120px;
+    
+    }
+    #password{
+    position:relative;
+    left:180px;
+    }
+    .submit{
+    position:relative;
+    left:250px;
+    top:50px;
+    width:70px;
+    height:30px;
+    background:hotpink;
+    color:white;
+    border:white;
+    
+    }
+
+    @media(max-width:1420px){
+        *{
+            margin:0;
+            padding:0;
+            }
+            .div1{
+            background:linear-gradient(pink,white,hotpink);
+            height:1000px;
+            width:1420px;
+            }
+            .div2{
+            background:white;
+            width:40%;
+            height:500px;
+            position:relative;
+            top:100px;
+            left:37%;
+            border-radius:20px;
+            
+            }
+            .h21{
+            text-align:center;
+            padding:20px;
+            }
+            .name{
+            font-weight:500;
+            position:relative;
+            left:120px;
+            }
+            #name{
+            position:relative;
+            left:200px;
+            }
+            .email{
+            font-weight:500;
+            position:relative;
+            left:120px;
+            }
+            #email{
+            position:relative;
+            left:193px;
+            }
+            .password{
+            font-weight:500;
+            position:relative;
+            left:120px;
+            
+            }
+            #password{
+            position:relative;
+            left:180px;
+            }
+            .submit{
+            position:relative;
+            left:250px;
+            top:50px;
+            width:70px;
+            height:30px;
+            background:hotpink;
+            color:white;
+            border:white;
+            
+            }
+    }
+    @media(max-width:1399px){
+        *{
+            margin:0;
+            padding:0;
+            }
+            .div1{
+            background:linear-gradient(pink,white,hotpink);
+            height:800px;
+            width:1420px;
+            }
+            .div2{
+            background:white;
+            width:40%;
+            height:450px;
+            position:relative;
+            top:100px;
+            left:37%;
+            border-radius:20px;
+            
+            }
+            .h21{
+            text-align:center;
+            padding:20px;
+            }
+            .name{
+            font-weight:500;
+            position:relative;
+            left:120px;
+            }
+            #name{
+            position:relative;
+            left:200px;
+            }
+            .email{
+            font-weight:500;
+            position:relative;
+            left:120px;
+            }
+            #email{
+            position:relative;
+            left:193px;
+            }
+            .password{
+            font-weight:500;
+            position:relative;
+            left:120px;
+            
+            }
+            #password{
+            position:relative;
+            left:180px;
+            }
+            .submit{
+            position:relative;
+            left:250px;
+            top:50px;
+            width:70px;
+            height:30px;
+            background:hotpink;
+            color:white;
+            border:white;
+            
+            }
+    }
+    @media(max-width:1199px){
+        *{
+            margin:0;
+            padding:0;
+            }
+            .div1{
+            background:linear-gradient(pink,white,hotpink);
+            height:800px;
+            width:1420px;
+            }
+            .div2{
+            background:white;
+            width:40%;
+            height:500px;
+            position:relative;
+            top:100px;
+            left:32%;
+            border-radius:20px;
+            
+            }
+            .h21{
+            text-align:center;
+            padding:20px;
+            }
+            .name{
+            font-weight:500;
+            position:relative;
+            left:120px;
+            }
+            #name{
+            position:relative;
+            left:200px;
+            height: 30px;
+            }
+            .email{
+            font-weight:500;
+            position:relative;
+            left:120px;
+            }
+            #email{
+            position:relative;
+            left:193px;
+            height: 30px;
+            }
+            .password{
+            font-weight:500;
+            position:relative;
+            left:120px;
+            
+            }
+            #password{
+            position:relative;
+            left:180px;
+            height: 30px;
+            }
+            .submit{
+            position:relative;
+            left:250px;
+            top:50px;
+            width:70px;
+            height:30px;
+            background:hotpink;
+            color:white;
+            border:white;
+            
+            }
+    }
+    @media(max-width:991px){
+        *{
+            margin:0;
+            padding:0;
+            }
+            .div1{
+            background:linear-gradient(pink,white,hotpink);
+            height:900px;
+            width:1420px;
+            }
+            .div2{
+            background:white;
+            width:45%;
+            height:600px;
+            position:relative;
+            top:100px;
+            left:30%;
+            border-radius:20px;
+            
+            }
+            .h21{
+            text-align:center;
+            padding:20px;
+            }
+            .name{
+            font-weight:500;
+            position:relative;
+            left:120px;
+            font-size: large;
+            }
+            #name{
+            height: auto;
+            position:relative;
+            left:200px;
+    
+            
+            }
+            .email{
+            font-weight:500;
+            position:relative;
+            left:120px;
+            font-size: large;
+            }
+            #email{
+            position:relative;
+            left:193px;
+        
+            }
+            .password{
+            font-weight:500;
+            position:relative;
+            left:120px;
+            font-size: large;
+            
+            }
+            #password{
+            position:relative;
+            left:180px;
+            }
+            .submit{
+            position:relative;
+            left:280px;
+            top:50px;
+            width:70px;
+            height:30px;
+            background:hotpink;
+            color:white;
+            border:white;
+            
+            }
+    }
+    @media(max-width:797px){
+        *{
+            margin:0;
+            padding:0;
+            }
+            .div1{
+            background:linear-gradient(pink,white,hotpink);
+            height:1020px;
+            width:1420px;
+            }
+            .div2{
+            background:white;
+            width:45%;
+            height:600px;
+            position:relative;
+            top:200px;
+            left:30%;
+            border-radius:20px;
+            
+            }
+            .h21{
+            text-align:center;
+            padding:20px;
+            }
+            .name{
+            font-weight:500;
+            position:relative;
+            left:120px;
+            font-size: large;
+            }
+            #name{
+            height: auto;
+            position:relative;
+            left:200px;
+    
+            
+            }
+            .email{
+            font-weight:500;
+            position:relative;
+            left:120px;
+            font-size: large;
+            }
+            #email{
+            position:relative;
+            left:193px;
+        
+            }
+            .password{
+            font-weight:500;
+            position:relative;
+            left:120px;
+            font-size: large;
+            
+            }
+            #password{
+            position:relative;
+            left:180px;
+            }
+            .submit{
+            position:relative;
+            left:280px;
+            top:50px;
+            width:70px;
+            height:30px;
+            background:hotpink;
+            color:white;
+            border:white;
+            
+            }
+    }
+    @media(max-width:575px){
+        *{
+            margin:0;
+            padding:0;
+            }
+            .div1{
+            background:linear-gradient(pink,white,hotpink);
+            height:1410px;
+            width:1420px;
+            }
+            .div2{
+            background:white;
+            width:50%;
+            height:700px;
+            position:relative;
+            top:350px;
+            left:27%;
+            border-radius:20px;
+            
+            }
+            .h21{
+            text-align:center;
+            padding:20px;
+            font-size: xx-large;
+            }
+            .name{
+            font-weight:500;
+            position:relative;
+            left:120px;
+            font-size: large;
+            }
+            #name{
+            height: 30px;
+            position:relative;
+            left:200px;
+            border: 1px solid rgb(20, 20, 20);
+    
+            
+            }
+            .email{
+            font-weight:500;
+            position:relative;
+            left:120px;
+            font-size: large;
+            }
+            #email{
+            position:relative;
+            left:193px;
+            border: 1px solid rgb(20, 20, 20);
+        
+            }
+            .password{
+            font-weight:500;
+            position:relative;
+            left:120px;
+            font-size: large;
+            
+            }
+            #password{
+            position:relative;
+            left:180px;
+            border: 1px solid rgb(20, 20, 20);
+            }
+            .submit{
+            position:relative;
+            left:280px;
+            top:50px;
+            width:70px;
+            height:30px;
+            background:hotpink;
+            color:white;
+            border:white;
+            
+            }
+        }
